@@ -4,9 +4,6 @@
 
 <h1 align="center">👋 Hi, I'm Ibrahim</h1>
 
-<div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
-</div>
 
 <p align="center"><em>Open for Hiring</em></p>
 
