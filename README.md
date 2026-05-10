@@ -7,6 +7,8 @@
 
 <p align="center"><em>Open for Hiring</em></p>
 
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 <hr>
 
 <h2 align="center">👨‍💻 Who am I</h2>
